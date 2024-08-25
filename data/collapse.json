@@ -1,0 +1,40 @@
+{
+	"id": 95327529,
+	"name": "Collapse",
+	"tags":[
+		"2.1",
+		"Long",
+		"Fast-Pased",
+		"Timings",
+		"Precision",
+		"Overall"
+	],
+	"author": "fwefwe",
+	"creators": [
+		"Surv",
+		"fwefwe",
+		"Valentine",
+		"YouKnowWho",
+		"Starterx",
+		"PlaEnterprise",
+		"Solarion",
+		"Graded",
+		"Kazia",
+		"Avrg",
+		"Insxne97",
+		"Copc",
+		"Etheriall"
+	],
+	"verifier": "BGram",
+	"verification": "https://www.youtube.com/watch?v=VUT_4EbuW_E",
+	"percentToQualify": 100,
+	"password": "001319",
+	"records": [
+		{
+			"user": "DibiiziCookie",
+			"link": "https://youtu.be/UGnvXgJx3Zk?si=4g_k4VZ4cD9DgoDD",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

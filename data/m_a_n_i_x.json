@@ -1,0 +1,81 @@
+{
+	"id": 30586021,
+	"name": "M A N I X",
+	"author": "KrmaL",
+	"creators": [
+		"Manix648",
+		" KrmaL"
+	],
+	"verifier": "KrmaL",
+	"verification": "https://youtu.be/HJH4d2LT4c4?si=l4MoZkVk4rOrV1yM",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Dagemanx",
+			"link": "https://youtu.be/dDydcddKL-c?si=nkekvU5aRG2med7A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fruitsalad",
+			"link": "https://www.youtube.com/watch?v=Kc30tG0oLnU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/ffnGP356SgQ?si=nsLYFINliQlMOSXO",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "FlashWings576",
+			"link": "https://youtu.be/QmALAOSyeho?si=qJEIQHU5JfZrYbkQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Mexican Toad",
+			"link": "https://youtu.be/e7pGDGBsP0g?si=0jqdNU2kBcztXyun",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Rub1d1um",
+			"link": "https://youtu.be/qDrpVydWeys?si=HV5kePTpQmydpdQb",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Shad9R",
+			"link": "https://youtu.be/TC6dLC0XavM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Reffman",
+			"link": "https://youtu.be/zZYonO8GcwU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/XRwipWefOQ8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/LQ49RovaJz4?si=iAbDlZvspk18eieV",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[HUB] usb",
+			"link": "https://youtu.be/W_hn-PF99zc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

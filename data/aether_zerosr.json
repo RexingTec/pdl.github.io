@@ -1,0 +1,30 @@
+{
+	"id": 99800205,
+	"name": "aether (ZeroSR)",
+	"tags": [
+		"2.2",
+		"Long",
+		"Fast-Paced",
+		"Learny",
+		"Gimmicky",
+		"UFO",
+		"Spider",
+		"New Swing"
+	],
+	"author": "ZeroSR",
+	"creators": [
+		"ZeroSR",
+		"Arcila"
+	],
+	"verifier": "Technical",
+	"verification": "https://youtu.be/-IkL_h0y1zE?si=juNkKbDVXLZumQKZ",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "eleek",
+			"link": "https://www.youtube.com/watch?v=aNIdst7esek&ab_channel=ElEek",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

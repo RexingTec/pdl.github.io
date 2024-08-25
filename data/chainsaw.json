@@ -1,0 +1,35 @@
+{
+	"id": 88761395,
+	"name": "Chainsaw",
+	"tags": [
+		"2.1",
+		"Long",
+		"Gimmicky",
+		"Memory",
+		"Overall"
+	],
+	"author": "Lia",
+	"creators": [
+		"vonic",
+		"handsomeorange",
+		"Moffe",
+		"ItzGray"
+	],
+	"verifier": "Lia",
+	"verification": "https://youtu.be/tdzM7A91IgU?si=WC4LSjnPi3btSTq8",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Dep96",
+			"link": "https://www.youtube.com/watch?v=76VdkHPBIR4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[HUB] usb",
+			"link": "https://www.youtube.com/watch?v=HbnQQfhqjPk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

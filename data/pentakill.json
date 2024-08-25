@@ -1,0 +1,33 @@
+{
+	"id": 20142657,
+	"name": "Pentakill",
+	"author": "WOOGI1411",
+	"creators": [
+		"WOOGI1411",
+		" Xaro"
+	],
+	"verifier": "WOOGI1411",
+	"verification": "https://youtu.be/AJvPrk_PeF8",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Weenside",
+			"link": "https://youtu.be/vTWXHkjp1zc?si=ZHAj-KK4PoHlcCFz",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/qy_q_XoBj5Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Unreservedly",
+			"link": "https://youtu.be/ZX6IEbFz6WM?si=0xzK9jKE2piEncWj",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

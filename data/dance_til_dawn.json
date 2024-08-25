@@ -1,0 +1,35 @@
+{
+	"id": 92056601,
+	"name": "Dance Til Dawn",
+	"author": "Fourtex",
+	"creators": [],
+	"verifier": "awesomeme360",
+	"verification": "https://youtu.be/kZpfa_2LfUU?si=yKFBmJ7oFMuix0j5",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "plimbus",
+			"link": "https://youtu.be/js6meyhUVbw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DankDrew",
+			"link": "https://youtu.be/LZ0Dh18lKKo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/4SIo8u3yLEw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Enfur",
+			"link": "https://youtu.be/rdMNKoSZTtE?si=pWb-ZVxbLZQz0OAU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

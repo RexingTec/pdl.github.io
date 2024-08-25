@@ -1,0 +1,23 @@
+{
+	"id": 90400834,
+	"name": "network (VanDerVals)",
+	"author": "VanDerVals",
+	"creators": [],
+	"verifier": "VanDerVals",
+	"verification": "https://youtu.be/uA5i_jBW2hY?si=_Q1pAqVq03-4PkcO",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "MrRiplet",
+			"link": "https://www.youtube.com/watch?v=nyBgPfN5jDA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/LKwWIK8oFPk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

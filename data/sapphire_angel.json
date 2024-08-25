@@ -1,0 +1,35 @@
+{
+	"id": 69617575,
+	"name": "Sapphire Angel",
+	"author": "EternaswipVMAX",
+	"creators": [],
+	"verifier": "twister",
+	"verification": "https://www.youtube.com/watch?v=yflBU6cD0EI",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Fruitsalad",
+			"link": "https://www.youtube.com/watch?v=-lI7BgZRrzA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "goobrey",
+			"link": "https://youtu.be/dhCog9e4khk?si=TugcblORc8f3lYvj",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ultrakawaHD",
+			"link": "https://www.youtube.com/watch?v=8_W7PDePICE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[STAFF] IvanCrafter026",
+			"link": "https://youtu.be/233hyAiRnWE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"id": 106588541,
+	"name": "FLAMETHROWER",
+	"author": "kreno",
+	"creators": [
+		"kreno",
+		" oleki"
+	],
+	"verifier": "oleki",
+	"verification": "https://youtu.be/lLsItS8PF8I?si=IIV47ztrpaZbGiHr",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "mcdogesterr",
+			"link": "https://medal.tv/games/geometry-dash/clips/i6JgeHnWKeB_kPEsY/d1337E4nzmEl?invite=cr-MSxSQnosMTc1MTg4OTQs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/Zx355g1ihiQ?si=LNyx-Dqth_TlUv8X",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "LinedriveGD",
+			"link": "https://www.youtube.com/watch?v=xsk9WzWDZgY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

@@ -1,2 +1,5 @@
-# pdl.github.io
- A Personal Demon List ranking my completions
+# Disclaimer
+
+```
+I do not own nor is this associated with TSL
+```

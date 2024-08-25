@@ -1,0 +1,54 @@
+{
+	"id": 96549270,
+	"name": "All In",
+	"author": "l4tezk",
+	"creators": [],
+	"verifier": "l4tezk",
+	"verification": "https://youtu.be/l1OxtmeZOUc?si=wXX81uisRdcEZfd5",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "maxler",
+			"link": "https://www.youtube.com/watch?v=pQP8jCRJohg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[BHO] Catliest",
+			"link": "https://www.youtube.com/watch?v=N-MUfAiOA4M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BrowarKedawar",
+			"link": "https://youtu.be/5VzKq4W9_Hg?si=w804Huf2ppGcBAjE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "425WSHN",
+			"link": "https://medal.tv/games/geometry-dash/clips/ijC0e7v9YabElEKhJ/d1337AobbKJv?invite=cr-MSw3Ym0sODAxNDI1Nyw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "PixelCat",
+			"link": "https://www.youtube.com/watch?v=R0id_Q0S5Mw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Gecko",
+			"link": "https://youtu.be/Wj50CmpEvnw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "asdsdvb",
+			"link": "https://www.youtube.com/watch?v=0EkNUde4uGc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

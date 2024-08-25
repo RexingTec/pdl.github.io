@@ -1,0 +1,53 @@
+{
+	"id": 93941971,
+	"name": "Cicatrize",
+	"tags":[
+		"2.1",
+		"Long",
+		"Clicksync",
+		"Fast-Pased",
+		"Precision"
+	],
+	"author": "Wintter",
+	"creators": [
+		"Wintter",
+		"Wodka",
+		"OrhiD",
+		"AlaskaFX"
+	],
+	"verifier": "Bleamer",
+	"verification": "https://youtu.be/QfF3jgPQZk0?si=FbDEHDANCwczhjwR",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "初音ミク",
+			"link": "https://youtu.be/5uSOYyqbyN0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[BHO] Satoru Gojo",
+			"link": "https://youtu.be/8vG6EC_uuCY?si=MuAOfTN9cB3Ak52P",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "kas ia",
+			"link": "https://youtu.be/0WxL0qy2bHk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "eliooenver",
+			"link": "https://youtu.be/Irl793ECAMw?si=tl4EVqnlFU2OiP10",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "nilcoheff",
+			"link": "https://youtu.be/k9PNuf_JN2U?si=4-p0cnUo-tJiPHv4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

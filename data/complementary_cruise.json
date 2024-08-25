@@ -1,0 +1,48 @@
+{
+	"id": 77159883,
+	"name": "Complementary Cruise",
+	"tags":[
+		"2.1",
+		"Long",
+		"Fast-Pased",
+		"Timings",
+		"Overall"
+	],
+	"author": "Hero3210",
+	"creators": [],
+	"verifier": "Mark Napkin",
+	"verification": "https://youtu.be/HaIwEPS2mkw?si=DPBzoO1Jl5ZSWmc0",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "HotNooB",
+			"link": "https://youtu.be/CDTQVDrv48s?si=Dp_xz8o0-5evtGqS",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Lia",
+			"link": "https://youtu.be/3HM3JsihdCY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "plimbus",
+			"link": "https://youtu.be/O9Tnh8oE_ds",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ultrakawaHD",
+			"link": "https://www.youtube.com/watch?v=epceJma9aVQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "asdsdvb",
+			"link": "https://www.youtube.com/watch?v=NY2ygWXjkPM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

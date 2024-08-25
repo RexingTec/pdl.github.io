@@ -1,0 +1,24 @@
+{
+	"id": 101288192,
+	"name": "lovel",
+	"author": "WireMuncher",
+	"creators": [],
+	"verifier": "WireMuncher",
+	"verification": "https://youtu.be/E_rN9kMQJQg?si=W2jfandJp0zIFgJz",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "plimbus",
+			"link": "https://www.youtube.com/watch?v=G-hcJ6qqdXw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "[AFP] vitamin227",
+			"link": "https://www.youtube.com/watch?v=BTg1rXEo5Oc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

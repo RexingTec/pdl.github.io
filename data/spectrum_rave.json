@@ -1,0 +1,41 @@
+{
+	"id": 72308725,
+	"name": "Spectrum Rave",
+	"author": "Ryder",
+	"creators": [
+		"Eggnog",
+		"Marwec",
+		"Manix648",
+		"Ryder",
+		"Vlacc",
+		"HelpegasuS",
+		"YakobNugget",
+		"koolboom",
+		"Floppy",
+		"Kllnex",
+		"Goose",
+		"Enzore",
+		"HJfod",
+		"Cirtrax",
+		"Sequex",
+		"Giron",
+		"FerdeFunky",
+		"Scrumpy",
+		"Licen",
+		"NASHII",
+		"ZeroSR",
+		"kwms",
+		"nryu"
+	],
+	"verifier": "RyuDieDragon",
+	"verification": "https://youtu.be/e93d3aEskFY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "DijonGD",
+			"link": "https://youtu.be/spUKA4U4Yns?si=bhu_CCPmtCbovpf_",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}

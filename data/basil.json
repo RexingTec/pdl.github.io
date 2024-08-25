@@ -1,0 +1,28 @@
+{
+	"id": 98950709,
+	"name": "Basil",
+	"tags":[
+		"2.1",
+		"Long",
+		"Fast-Pased",
+		"Timings",
+		"Learny",
+		"High CPS",
+		"Precision",
+		"Overall"
+	],
+	"author": "ZeroSR",
+	"creators": [],
+	"verifier": "deactive",
+	"verification": "https://www.youtube.com/watch?v=dovHsq1oyAs",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "eliooenver",
+			"link": "https://youtu.be/RvctT1e6BNM?si=Mm2mJObpjYhY_xbM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}
